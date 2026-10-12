@@ -1,2 +1,2 @@
 DATAs/Info/skill00.rmi
-
+DATAs/Map/Map00510.rmm
