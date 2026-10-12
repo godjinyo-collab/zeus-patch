@@ -1,2 +1,1 @@
-DATAs/Info/skill00.rmi
-DATAs/Map/Map00510.rmm
+DATAs/Map/Map00510.rmm|7c0587ccd938e49975f174048ad38b4f0797b89bf753e8ac994da87bffaccc8e
